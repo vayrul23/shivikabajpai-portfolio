@@ -7,7 +7,7 @@ A personal portfolio website built using HTML and CSS.
 ## Technologies Used
 - HTML5
 - CSS3
-
+- JavaScript
 ## Features
 - Responsive layout
 - Modern UI design
