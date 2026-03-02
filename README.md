@@ -1,6 +1,6 @@
 # Shivika Bajpai Portfolio
 
-A personal portfolio website built using HTML and CSS.
+A personal portfolio website 
 
 🔗 Live Site: https://vayrul23.github.io/shivikabajpai-portfolio/
 
